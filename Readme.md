@@ -20,3 +20,6 @@ exemple:
     Insérer 'e' après 'u' pour former "superman".
 
     =>Distance de Leveinsthein = 6
+
+Si vous êtes curieux à en savoir plus , je vous invite à cliquer ce lien:
+https://fr.wikipedia.org/wiki/Distance_de_Levenshtein
