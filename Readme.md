@@ -16,9 +16,7 @@ exemple:
 
     Substituer 'b' par 's' → "satman".
     Substituer 'a' par 'u' → "sutman".
-    Substituer 't' par 'p' → "supman".
-    Insérer 'e' après 'p' → "superman".
-    Insérer 'r' après 'e' → "superman".
-    Insérer 'n' à la fin → "superman".
+    Supprimer 'p' → "suman".
+    Insérer 'e' après 'u' pour former "superman".
 
     =>Distance de Leveinsthein = 6

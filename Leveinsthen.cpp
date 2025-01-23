@@ -34,8 +34,8 @@ uint leveinsthein(const string& string1 ,const string& string2){
     return distance_of_leveinsthein;
 }
 int main(){
-    string string1 = "chien";
-    string string2 = "niche";
+    string string1 = "superman";
+    string string2 = "batman";
     cout << "L= " << leveinsthein(string1 , string2) << endl;
     return 0;
 }
